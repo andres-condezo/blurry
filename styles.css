@@ -15,13 +15,13 @@ body {
 }
 
 .bg {
-  background-color: url("https://www.wallpaperup.com/uploads/wallpapers/2014/01/18/231336/2816532da37c0b819aff2838cb16ab84.jpg")
+  background: url("https://www.wallpaperup.com/uploads/wallpapers/2014/01/18/231336/2816532da37c0b819aff2838cb16ab84.jpg")
     no-repeat center center/cover;
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
+  top: -30;
+  left: -30;
+  width: calc(100vw + 60px);
+  height: calc(100vh + 60px);
   z-index: -1;
   filter: blur(0px);
 }
