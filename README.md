@@ -1,8 +1,8 @@
 <h1 align=center> Blurry Loading ⌛ </h1>
 
-<img src="./img/preview.png">
+<img src="./img/preview.png" width= "100%">
 
-**This is the day 5** and this project is about a expanding cards.
+**This is the day 5** and this project is about a blurry loading page.
 
 **Technologies used:**
 
